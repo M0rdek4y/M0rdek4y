@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @M0rdek4y
-# Repositório do profissional <a href="https://github.com/M0rdek4y/" target="_blank" rel="external">M0rdek4y</a>
+# Repositório Profissional <a href="https://github.com/M0rdek4y/" target="_blank" rel="external">M0rdek4y</a>
 <p><img style="width: 200px; margin: 0px; padding: 0px; left: 10%;" src="https://github.com/M0rdek4y/Repositorio-de-midia/blob/master/media/images/png/logos/logo.png?raw=true" alt="LogoAlien"></p>
-# <h2>Repositório do não profissional <a href="https://github.com/MarquesDesigner/" target="_blank" rel="external">M0rdek4y</a></h2>
+# <h2>Repositório não profissional <a href="https://github.com/MarquesDesigner/" target="_blank" rel="external">M0rdek4y</a></h2>
 <p style="display: inline-block;" ><small>Desenvolvido por <strong>@MarquesDesigner(M0rdek4y)</strong></small></p>
 
 
