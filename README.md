@@ -3,11 +3,11 @@
 
 - 👋 Hi, I’m @MarquesDesigner
 
-# <img width="40" src="https://github.com/M0rdek4y/Repositorio-de-midia/blob/master/media/images/png/logos/GitHub/GitHub-Mark-Light-32px.png?raw=true" alt="logo GitHub">Este é o perfil profissional do <a href="https://github.com/MarquesDesigner/" target="_blank" rel="external">M0rdek4y</a>
+# <img width="25" src="https://github.com/M0rdek4y/Repositorio-de-midia/blob/master/media/images/png/logos/GitHub/GitHub-Mark-Light-32px.png?raw=true" alt="logo GitHub"> Este é o perfil profissional do <a href="https://github.com/MarquesDesigner/" target="_blank" rel="external">M0rdek4y</a>
 
 <img src="https://github.com/M0rdek4y/Repositorio-de-midia/blob/master/media/images/png/logos/logo.png?raw=true" align="right" width="300">
 
-## <img width="32" src="https://github.com/M0rdek4y/Repositorio-de-midia/blob/master/media/images/png/logos/GitHub/GitHub-Mark-Light-32px.png?raw=true" alt="logo GitHub">Este é o perfil não profissional do <a href="https://github.com/M0rdek4y/" target="_blank" rel="external">M0rdek4y</a>
+## <img width="18" src="https://github.com/M0rdek4y/Repositorio-de-midia/blob/master/media/images/png/logos/GitHub/GitHub-Mark-Light-32px.png?raw=true" alt="logo GitHub"> Este é o perfil não profissional do <a href="https://github.com/M0rdek4y/" target="_blank" rel="external"></a>
 
 ### Redes Sociais
 - <a href="https://twitter.com/Marques_dsg" target="_blank" rel="external"> <img width="16" src="https://github.com/M0rdek4y/Repositorio-de-midia/blob/master/media/images/png/logos/Twitter/kindpng_203710.png?raw=true" alt="Logo Twitter"> Twitter</a>
@@ -22,6 +22,12 @@ Você tem o direito de usar esse material para seu próprio aprendizado. Profess
 <br><br>
 <hr>
 <p align="right"> <img width="16" src="https://github.com/M0rdek4y/Repositorio-de-midia/blob/master/media/images/png/logos/GitHub/GitHub-Mark-Light-32px.png?raw=true" alt="logo GitHub"> Desenvolvido por <strong><a href="https://github.com/MarquesDesigner">@MarquesDesigner (@M0rdek4y)</a></strong></p>
+
+<!---
+MarquesDesigner/MarquesDesigner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
 
 
 <!---
