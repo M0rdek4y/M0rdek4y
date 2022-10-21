@@ -3,7 +3,7 @@
 <!--
 **M0rdek4y/M0rdek4y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:-->
 
 -- 👋 Hi, I’m @MarquesDesigner
 
@@ -15,5 +15,3 @@ Here are some ideas to get you started:
 MarquesDesigner/MarquesDesigner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
--->
