@@ -1,4 +1,4 @@
-![Visit https://www.twitch.tv/m0rdek4y_](https://github.com/M0rdek4y/Repositorio-de-midia/blob/master/media/images/png/banner/Banner%20M0rdek4y%20TWITCH.png) 
+![Visit https://www.twitch.tv/m0rdek4y_](https://github.com/M0rdek4y/Repositorio-de-midia/blob/master/media/images/png/banner/Banner%20M0rdek4y%20WORK.png?raw=true) 
 
 
 - 👋 Hi, I’m @MarquesDesigner
