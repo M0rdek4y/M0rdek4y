@@ -1,4 +1,4 @@
-<a href="Visit https://www.twitch.tv/m0rdek4y_"><img alt="Banner M0rdek4y TWITCH.png" src="https://github.com/M0rdek4y/Repositorio-de-midia/blob/master/media/images/png/banner/Banner%20M0rdek4y%20TWITCH.png?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></a>
+<a href="https://www.twitch.tv/m0rdek4y_"><img alt="Banner M0rdek4y TWITCH.png" src="https://github.com/M0rdek4y/Repositorio-de-midia/blob/master/media/images/png/banner/Banner%20M0rdek4y%20TWITCH.png?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></a>
 
 
 - 👋 Hi, I’m @MarquesDesigner
