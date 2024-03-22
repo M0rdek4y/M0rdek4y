@@ -14,7 +14,7 @@
 
 
 
-<img src="https://github.com/M0rdek4y/use-images/blob/main/logos/logo.png?raw=true" align="right" width="300" display="block"><br>
+<img src="https://github.com/M0rdek4y/use-images/blob/main/logos/logo.png?raw=true" align="right" width="300" display="inline"><br>
 
 
 ### Redes Sociais
