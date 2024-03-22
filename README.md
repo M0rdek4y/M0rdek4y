@@ -5,9 +5,9 @@
 
 # <img width="25" src="https://github.com/M0rdek4y/use-images/blob/b3493c1eb44a1994052af48c63ec17e10956d2fe/logos/GitHub/GitHub-Mark-Light-32px.png" alt="logo GitHub"> Este é o perfil profissional do <a href="https://github.com/MarquesDesigner/" target="_blank" rel="external">M0rdek4y</a>
 
-</br>
+<br>
 <img src="https://github.com/M0rdek4y/use-images/blob/b3493c1eb44a1994052af48c63ec17e10956d2fe/logos/logo.png" align="right" width="300">
-</br>
+<br>
 
 ## <img width="18" src="https://github.com/M0rdek4y/use-images/blob/b3493c1eb44a1994052af48c63ec17e10956d2fe/logos/GitHub/GitHub-Mark-Light-32px.png" alt="logo GitHub"> Este é o perfil não profissional do <a href="https://github.com/M0rdek4y/" target="_blank" rel="external">M0rdek4y</a>
 
