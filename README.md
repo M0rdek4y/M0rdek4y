@@ -7,8 +7,6 @@
 
 ## <img width="18" src="https://github.com/M0rdek4y/use-images/blob/main/logos/GitHub/GitHub-Mark-Light-32px.png?raw=true" alt="logo GitHub"> Este é o perfil não profissional do <a href="https://github.com/M0rdek4y/" target="_blank" rel="external">M0rdek4y</a>
 
-<br>
-
 <img src="https://github.com/M0rdek4y/use-images/blob/main/logos/logo.png?raw=true" align="right" width="300" display="inline"><br>
 
 ### Redes Sociais
@@ -30,13 +28,6 @@
 <br><br>
 <hr>
 <p align="right"> <img width="16" src="https://github.com/M0rdek4y/use-images/blob/b3493c1eb44a1994052af48c63ec17e10956d2fe/logos/GitHub/GitHub-Mark-Light-32px.png" alt="logo GitHub"> Desenvolvido por <strong><a href="https://github.com/MarquesDesigner">@MarquesDesigner (@M0rdek4y)</a></strong></p>
-
-<!---
-MarquesDesigner/MarquesDesigner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
 
 <!---
 MarquesDesigner/MarquesDesigner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
