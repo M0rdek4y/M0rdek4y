@@ -4,9 +4,10 @@
 - 👋 Hi, I’m @MarquesDesigner
 
 # <img width="25" src="https://github.com/M0rdek4y/use-images/blob/main/logos/GitHub/GitHub-Mark-Light-32px.png?raw=true" alt="logo GitHub"> Este é o perfil profissional do <a href="https://github.com/MarquesDesigner/" target="_blank" rel="external">M0rdek4y</a>
+
 ## <img width="18" src="https://github.com/M0rdek4y/use-images/blob/main/logos/GitHub/GitHub-Mark-Light-32px.png?raw=true" alt="logo GitHub"> Este é o perfil não profissional do <a href="https://github.com/M0rdek4y/" target="_blank" rel="external">M0rdek4y</a>
-<br>
-<img src="https://github.com/M0rdek4y/use-images/blob/main/logos/logo.png?raw=true" align="right" position="absolute" width="300">
+
+## <img src="https://github.com/M0rdek4y/use-images/blob/main/logos/logo.png?raw=true" align="right" position="absolute" width="300">
 
 ### Redes Sociais
 - <a href="https://twitter.com/Marques_dsg" target="_blank" rel="external"> <img width="16" src="https://github.com/M0rdek4y/use-images/blob/b3493c1eb44a1994052af48c63ec17e10956d2fe/logos/Twitter/kindpng_203710.png" alt="Logo Twitter"> Twitter</a>
@@ -14,7 +15,6 @@
 - <a href="https://www.twitch.tv/m0rdek4y_" target="_blank" rel="external"><img width="16" src="https://github.com/M0rdek4y/use-images/blob/b3493c1eb44a1994052af48c63ec17e10956d2fe/logos/Twitch/logo.png" alt="Logo Twitch"> Twitch</a>
 - <a href="https://www.behance.net/m0rdek4y_designer" target="_blank" rel="external"><img width="16" src="https://github.com/M0rdek4y/use-images/blob/b3493c1eb44a1994052af48c63ec17e10956d2fe/logos/Behance/Icon-Behance-In-circle-PNG.png" alt="Logo Behance"> Portfólio Digital</a>
 
-<br>
 
 ## ⚖️ Direitos de uso
 
