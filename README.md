@@ -1,11 +1,11 @@
-![Visit https://www.twitch.tv/m0rdek4y_](https://github.com/M0rdek4y/use-images/blob/b3493c1eb44a1994052af48c63ec17e10956d2fe/banner/Banner%20M0rdek4y%20WORK.png) 
+<a href="Visit https://www.twitch.tv/m0rdek4y_"><img alt="Banner M0rdek4y TWITCH.png" src="https://github.com/M0rdek4y/Repositorio-de-midia/blob/master/media/images/png/banner/Banner%20M0rdek4y%20TWITCH.png?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></a>
 
 
 - 👋 Hi, I’m @MarquesDesigner
 
 # <img width="25" src="https://github.com/M0rdek4y/use-images/blob/b3493c1eb44a1994052af48c63ec17e10956d2fe/logos/GitHub/GitHub-Mark-Light-32px.png" alt="logo GitHub"> Este é o perfil profissional do <a href="https://github.com/MarquesDesigner/" target="_blank" rel="external">M0rdek4y</a>
 
-<img src="https://github.com/M0rdek4y/use-images/blob/b3493c1eb44a1994052af48c63ec17e10956d2fe/logos/logo.png" align="right" width="300">
+<img src="https://github.com/M0rdek4y/use-images/blob/b3493c1eb44a1994052af48c63ec17e10956d2fe/logos/logo.png" align="right" width="300" style= >
 
 ## <img width="18" src="https://github.com/M0rdek4y/use-images/blob/b3493c1eb44a1994052af48c63ec17e10956d2fe/logos/GitHub/GitHub-Mark-Light-32px.png" alt="logo GitHub"> Este é o perfil não profissional do <a href="https://github.com/M0rdek4y/" target="_blank" rel="external">M0rdek4y</a>
 
