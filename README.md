@@ -24,6 +24,7 @@
 - <a href="https://www.behance.net/m0rdek4y_designer" target="_blank" rel="external"><img width="16" src="https://github.com/M0rdek4y/use-images/blob/b3493c1eb44a1994052af48c63ec17e10956d2fe/logos/Behance/Icon-Behance-In-circle-PNG.png" alt="Logo Behance"> Portfólio Digital</a>
 
 
+<p>
 
 
 
@@ -33,8 +34,7 @@
 
 
 
-
-
+</p>
 
 ## ⚖️ Direitos de uso
 
