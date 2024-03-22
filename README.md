@@ -11,10 +11,10 @@
 
 ### Redes Sociais
 <div class="socialmidia" style="heigth=1000px, display">
-    - <a href="https://twitter.com/Marques_dsg" target="_blank" rel="external"> <img width="16" src="https://github.com/M0rdek4y/use-images/blob/b3493c1eb44a1994052af48c63ec17e10956d2fe/logos/Twitter/kindpng_203710.png" alt="Logo Twitter"> Twitter</a>
-    - <a href="https://www.instagram.com/marques_dsg/" target="_blank" rel="external"><img width="16" src="https://github.com/M0rdek4y/use-images/blob/b3493c1eb44a1994052af48c63ec17e10956d2fe/logos/Instagram/Instagram_logo.png" alt="Logo Instagram"> Instagram</a>
-    - <a href="https://www.twitch.tv/m0rdek4y_" target="_blank" rel="external"><img width="16" src="https://github.com/M0rdek4y/use-images/blob/b3493c1eb44a1994052af48c63ec17e10956d2fe/logos/Twitch/logo.png" alt="Logo Twitch"> Twitch</a>
-    - <a href="https://www.behance.net/m0rdek4y_designer" target="_blank" rel="external"><img width="16" src="https://github.com/M0rdek4y/use-images/blob/b3493c1eb44a1994052af48c63ec17e10956d2fe/logos/Behance/Icon-Behance-In-circle-PNG.png" alt="Logo Behance"> Portfólio Digital</a>
+    - <a href="https://twitter.com/Marques_dsg" target="_blank" rel="external"> <img width="16" src="https://github.com/M0rdek4y/use-images/blob/b3493c1eb44a1994052af48c63ec17e10956d2fe/logos/Twitter/kindpng_203710.png" alt="Logo Twitter"> Twitter</a> <br>
+    - <a href="https://www.instagram.com/marques_dsg/" target="_blank" rel="external"><img width="16" src="https://github.com/M0rdek4y/use-images/blob/b3493c1eb44a1994052af48c63ec17e10956d2fe/logos/Instagram/Instagram_logo.png" alt="Logo Instagram"> Instagram</a> <br>
+    - <a href="https://www.twitch.tv/m0rdek4y_" target="_blank" rel="external"><img width="16" src="https://github.com/M0rdek4y/use-images/blob/b3493c1eb44a1994052af48c63ec17e10956d2fe/logos/Twitch/logo.png" alt="Logo Twitch"> Twitch</a> <br>
+    - <a href="https://www.behance.net/m0rdek4y_designer" target="_blank" rel="external"><img width="16" src="https://github.com/M0rdek4y/use-images/blob/b3493c1eb44a1994052af48c63ec17e10956d2fe/logos/Behance/Icon-Behance-In-circle-PNG.png" alt="Logo Behance"> Portfólio Digital</a> <br>
 </div>
 
 ## ⚖️ Direitos de uso
