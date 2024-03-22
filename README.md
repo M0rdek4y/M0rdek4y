@@ -12,7 +12,6 @@
 <img src="https://github.com/M0rdek4y/use-images/blob/main/logos/logo.png?raw=true" align="right" width="300" display="inline"><br>
 
 ### Redes Sociais
-
 - <a href="https://twitter.com/Marques_dsg" target="_blank" rel="external"> <img width="16" src="https://github.com/M0rdek4y/use-images/blob/b3493c1eb44a1994052af48c63ec17e10956d2fe/logos/Twitter/kindpng_203710.png" alt="Logo Twitter"> Twitter</a>
 
 - <a href="https://www.instagram.com/marques_dsg/" target="_blank" rel="external"><img width="16" src="https://github.com/M0rdek4y/use-images/blob/b3493c1eb44a1994052af48c63ec17e10956d2fe/logos/Instagram/Instagram_logo.png" alt="Logo Instagram"> Instagram</a>
